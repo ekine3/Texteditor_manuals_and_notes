@@ -1,6 +1,5 @@
 # Markdown: use and notes
-Erick Diaz 2026
-
+>ediaz 2026  
 
 ### About markdown (files .md)
 
