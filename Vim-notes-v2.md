@@ -1,6 +1,6 @@
 # Vi, Vim, Neovim and OpenVim notes version 2
 
->ediaz 2026  
+>ekine 2026  
 
 Vim has two basic modes *insert mode* triggered with the *i* key; in which you wite text as if in any normal text editor.
 Another is *normal mode*, which provides efficient ways to navigate and manipulate text, *Esc* key.
