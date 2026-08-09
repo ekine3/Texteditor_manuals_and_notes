@@ -1,4 +1,4 @@
-# Notes use of Visidata
+# Notes of use: Visidata
 > ekine 2026
 
 ## Basic navigation
@@ -31,3 +31,11 @@ To exit the editor *Crtl+q*.
 ## Other functions
 * To save the command log of the current sheet use *Ctrl+d* to save it to an independent file.  
 * Use *o* to open new files or sheets, use *Shift+s* to navigate sheets and *d* to close inside the navigator menu.  
+
+## References
+* Singer-Vine, Jeremy (2021). *An introduction to VisiData*.
+  <https://jsvine.github.io/intro-to-visidata/index.html>
+
+  
+* Pswanson, Paul (2026). *Visidata*.
+  <https://www.visidata.org/>
