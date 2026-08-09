@@ -33,9 +33,9 @@ To exit the editor *Crtl+q*.
 * Use *o* to open new files or sheets, use *Shift+s* to navigate sheets and *d* to close inside the navigator menu.  
 
 ## References
-* Singer-Vine, Jeremy (2021). *An introduction to VisiData*.
-  <https://jsvine.github.io/intro-to-visidata/index.html>
+* Singer-Vine, Jeremy (2021). *An introduction to VisiData*.  
+  * <https://jsvine.github.io/intro-to-visidata/index.html>
 
   
-* Pswanson, Paul (2026). *Visidata*.
-  <https://www.visidata.org/>
+* Pswanson, Paul (2026). *Visidata*.  
+  * <https://www.visidata.org/>
