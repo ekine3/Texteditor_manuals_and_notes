@@ -8,7 +8,7 @@ Usage:
 > neofetch  
 
 ## hw-probe  
-Probe is a snapshot of your computer's hardware and system logs, intended to simplify collecting logs for investigating hardware related problems.  
+Probe is a snapshot of your computer's hardware and system logs, intended to simplify collecting logs for investigating hardware related problems. It produces an URL.  
 Installation:  
 > apt-get install hw-probe
 Usage:
